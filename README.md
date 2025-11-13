@@ -38,27 +38,21 @@ Sequence Diagram
 
 ![LIB usecase](https://github.com/user-attachments/assets/905a0ed6-5659-4047-b3b1-b3166c77b19a)
 
-
 ## CLASS DIAGRAM:
 
 ![LIB class](https://github.com/user-attachments/assets/4b4253cc-91c3-4e63-ad62-7f70b8bdb3ef)
-
 
 ## ACTIVITY DIAGRAM:
 
 ![LIB ACTIVITY](https://github.com/user-attachments/assets/5e8387e1-f6d2-4e6f-a212-f3759d0a55a5)
 
-
 ## PACKAGE DIAGRAM:
 
 ![LIB package](https://github.com/user-attachments/assets/a0b775f2-49c3-4daf-88c9-e3d505565760)
 
-
 ## COMMUNICATION DIAGRAM:
 
 ![LIB communication](https://github.com/user-attachments/assets/073da361-27d5-402e-a927-d32c160ba562)
-
-
 
 ## SEQUENCE DIAGRAM:
 
